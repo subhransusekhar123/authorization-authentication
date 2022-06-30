@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 60vh;
+    height: 100vh;
+    justify-content: space-evenly;
+}
